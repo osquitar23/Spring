@@ -1,9 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
     <%@ include file="/WEB-INF/views/include.jsp" %>
+<!-- Esto es la vista del MVC de Spring -->
 <!doctype html>
 <html lang="en">
   <head>
+  <%@ include file="/WEB-INF/views/include.jsp" %>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
