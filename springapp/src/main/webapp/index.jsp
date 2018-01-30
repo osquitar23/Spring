@@ -53,7 +53,7 @@
 </div>
     
       <div class="alert alert-warning" role="alert">
-  <a href="./hello.htm"> Ir a hello</a>
+  <a href="./hello.htm"> Ir a hello.</a>
 </div>
       
 <%-- Redirected because we can't set the welcome page to a virtual URL. --%>
